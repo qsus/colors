@@ -11,6 +11,14 @@ Discord is a platform for text and voice communication. It is a popular platform
 |\`text\`|Inline code|`code`|
 |` ```text``` `|Multiline code block|```code```|
 |`> text`|Quote||
+## Code blocks color formatting
+This feature is originally indended for syntax highlighting. However, you can use it to color your text.
+General ussage:
+```
+```languageName
+your text
+another line```
+```
 ## ANSI code block formatting
 
 ## Sources:
