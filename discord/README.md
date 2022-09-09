@@ -13,9 +13,9 @@ Discord is a platform for text and voice communication. It is a popular platform
 |`> text`|Quote||
 ## Code blocks color formatting
 This feature is originally indended for syntax highlighting. However, you can use it to color your text. Because it's way too complicated to describe here, here is [link to Matthews explanation](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51).
-Example: (to do: add image here)
+(to do: add example image here)
 ## ANSI code block formatting
-
+Discord added support for custom color formatting inside code blocks by supporting ascii escape codes. This is a much more powerful than syntax highlihting, but also more complicated. Here is a [link to a kkrypt0nns guide](https://gist.github.com/kkrypt0nn/a02506f3712ff2d1c8ca7c9e0aed7c06). (to do: add example image here)
 ## Sources:
 - [Discord FAQ](https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
 - [Rebane Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)
