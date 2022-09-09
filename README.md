@@ -3,7 +3,7 @@ Guide to text formatting in Terminals, popular platforms such as Discord, WhatsA
 Warning: Work in progress!
 ## Platforms:
 - [WhatsApp](whatsapp)
+- [Discord](discord)
 ### To do:
 - [Linux Terminal / PowerShell](terminal) (ANSI escape codes)
-- [Discord](discord)
 - [GitHub](github)

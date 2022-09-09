@@ -3,9 +3,10 @@ WhatsApp is a popular free alternative for SMS from Facebook with many more feat
 ## Text formatting
 |Symbol|Description|Example (if possible)|Screenshot (optional)|
 |---|---|---|---|
-|\*text\*|bold|**bold**|
-|\_text\_|italic|*italic*|
-|\~text\~|strikethrough|~~strikethrough~~|
-|\`\`\`text\`\`\`|code|`code`|
+|`*text*`|bold|**bold**|
+|`_text_`|italic|*italic*|
+|`~text~`|strikethrough|~~strikethrough~~|
+|` ```text``` `|code|`code`|
+
 ## Sources:
 - [WhatsApp FAQ](https://faq.whatsapp.com/556797335179788/)
