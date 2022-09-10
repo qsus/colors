@@ -10,16 +10,17 @@ Github is a web-based Git repository hosting service. This guide will show you h
 |`* list`|Unordered list||
 |`1. list`|Ordered list||
 
+
 ## Emojis
-⚪ ⬜ white
-🔴 🟥 red
-🟠 🟧 orange
-🟡 🟨 yellow
-🟢 🟩 green
-🔵 🟦 blue
-🟣 🟪 purple
-🟤 🟫 brown
-⚫ ⬛ black
+⚪ ⬜ 🤍 white
+🔴 🟥 ❤️ red
+🟠 🟧 🧡 orange
+🟡 🟨 💛 yellow
+🟢 🟩 💚 green
+🔵 🟦 💙 blue
+🟣 🟪 💜 purple
+🟤 🟫 🤎 brown
+⚫ ⬛ 🖤 black
 
 ## Diff highlighting
 ```
