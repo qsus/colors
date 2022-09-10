@@ -37,7 +37,13 @@ see below
 @@ blue @@
 ```
 
+## Note and Warning tags
+> __Note__: This is a note using `> __Note__`.
+
+> __Warning__: This is a warning using `> __Warning__`.
+
 ## TeX coloring
+TODO
 
 ## Other
 |Symbol|Description|Example (if possible)|Screenshot (optional)|
