@@ -4,6 +4,6 @@ Warning: Work in progress!
 ## Platforms:
 - [WhatsApp](whatsapp)
 - [Discord](discord)
+- [GitHub](github)
 ### To do:
 - [Linux Terminal / PowerShell](terminal) (ANSI escape codes)
-- [GitHub](github)
