@@ -1,5 +1,5 @@
 # Discord
-Discord is a platform for text and voice communication. It is a popular platform for gamers and programmers. Discord uses markdown for formatting text. This guide will show you how to format text in Discord. (Written by Discord Copilot)
+Discord is a platform for text and voice communication. It is a popular platform for gamers and programmers. Discord uses markdown for formatting text. This guide will show you how to format text in Discord. (Intro written by GitHub Copilot)
 
 ## Text formatting basics
 |Symbol|Description|Example (if possible)|Screenshot (optional)|
