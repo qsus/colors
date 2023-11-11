@@ -27,6 +27,8 @@ Tested 2023-10-15, doesn't work.
 Discord now allows hypertext links using the following syntax: `[displayed text](URL)`. For example `[example](https://example.com/)` will result in [example](https://example.com/). URL has to have http or https scheme specified. Discord will show "Leaving Discord" screen, unless the domain is whitelisted. This means Discord will not ask when the target URL is a discord.gg invite.
 ## @silent
 When "@silent" is present in the beginning of a message, Discord will hide it and mark the message as silent. A bell will be shown next to the message timestamp and nobody will get pinged, even if mentioned in the message.
+## TODO:
+- add stuff from [this list from matthewzring](https://gist.github.com/matthewzring/9f7bbfd102003963f9be7dbcf7d40e51)
 ## Sources:
 - [Discord FAQ](https://support.discordapp.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-)
 - [Rebane Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)
