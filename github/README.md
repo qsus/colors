@@ -38,9 +38,21 @@ see below
 ```
 
 ## Note and Warning tags
-> __Note__: This is a note using `> __Note__`.
+`> __Text1__: Text2`
+> __Text1__: Text2
 
-> __Warning__: This is a warning using `> __Warning__`.
+`> [!Type]` on the previous line; the following lines MUST NOT start with `>`; all `Type` I know of: 
+> [!IMPORTANT]
+This is important.
+
+> [!WARNING]
+This is a warning.
+
+> [!NOTE]
+This is a note.
+
+> [!TIP]
+This is a tip.
 
 ## LaTeX coloring
 LaTeX is a mathematical typesetting language. It is used to create beautiful math equations. You can use LaTeX to color text in a block like so: `$${formatting and text}$$` { and } symbols are propably optional. Note that the text is not selectable and is always centered, unless you use inline version with only one $ symbol. See below the table for examples.
